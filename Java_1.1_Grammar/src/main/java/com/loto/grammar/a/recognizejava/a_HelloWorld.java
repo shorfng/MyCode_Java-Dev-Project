@@ -6,6 +6,7 @@ package com.loto.grammar.a.recognizejava;
  * Function：第一个Java程序
  */
 
+// 定义一个类
 public class a_HelloWorld {
     // 添加 main 主方法（是程序的入口，会被 JVM 调用）
     public static void main(String[] args) {
