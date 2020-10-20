@@ -12,6 +12,15 @@ public class Phone {
     double price; // 价格
     double size;  // 尺寸
 
+    @Override
+    public String toString() {
+        return "Phone{" +
+                "brand='" + brand + '\'' +
+                ", price=" + price +
+                ", size=" + size +
+                '}';
+    }
+
     // 成员方法
     void call(String name) {
         System.out.println("调用成员方法：打电话给" + name);

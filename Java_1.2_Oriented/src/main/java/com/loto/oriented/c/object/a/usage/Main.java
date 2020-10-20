@@ -31,5 +31,9 @@ public class Main {
 		System.out.println("===== 调用对象的成员方法 =====");
 		p.call("CJ");
 		p.sendMeg("TD");
+
+		// 打印对象的属性值，toString方法
+        System.out.println("===== 打印对象的属性值，toString方法 =====");
+        System.out.println(p.toString());
 	}
 }
