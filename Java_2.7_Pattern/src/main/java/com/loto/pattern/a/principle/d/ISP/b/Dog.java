@@ -7,7 +7,7 @@ package com.loto.pattern.a.principle.d.ISP.b;
  * Function：
  */
 
-public class Dog implements ISwimAminal, IEatAminal {
+public class Dog implements ISwimAnimal, IEatAnimal {
 
     @Override
     public void eat() {

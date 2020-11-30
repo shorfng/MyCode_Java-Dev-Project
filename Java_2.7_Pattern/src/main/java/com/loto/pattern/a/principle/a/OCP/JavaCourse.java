@@ -18,7 +18,8 @@ public class JavaCourse implements ICourse{
         this.price = price;
     }
 
-    public Integer getId() {
+    @Override
+	public Integer getId() {
         return id;
     }
 
@@ -27,7 +28,8 @@ public class JavaCourse implements ICourse{
         return name;
     }
 
-    public Double getPrice() {
+    @Override
+	public Double getPrice() {
         return price;
     }
 }
