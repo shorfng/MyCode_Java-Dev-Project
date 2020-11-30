@@ -41,7 +41,8 @@
 - JavaWeb_4.1_07_JSON
 
 ##### JavaWeb_4.2_Database（数据库） - 目前没有代码
-- JavaWeb_4.2_01_Database
+- JavaWeb_4.2_00_Database
+- JavaWeb_4.2_01_JDBC（数据库连接）
 - JavaWeb_4.2_02_MySQL
 
 ##### JavaWeb_4.3_Server（服务器端）

@@ -33,7 +33,7 @@ hs_err_pid*
 
 # ============================ Spring Boot文件 ============================
 HELP.md
-/target/
+*/target/
 !.mvn/wrapper/maven-wrapper.jar
 
 
