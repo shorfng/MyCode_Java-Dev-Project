@@ -12,7 +12,7 @@
 
     <!-- 子工程 -->
     <modules>
-        <!-- 1、JavaBasics（Java基础）-->
+        <!--【Java】01_JavaBasics（Java基础）-->
         <module>Java_1.0_Test</module>
         <module>Java_1.1_Grammar</module>
         <module>Java_1.2_Oriented</module>
@@ -22,7 +22,7 @@
         <module>Java_1.6_IO</module>
         <module>Java_1.7_NewFeatures</module>
 
-        <!-- 2、JavaReinforce（Java加强）-->
+        <!--【Java】02_JavaReinforce（Java加强）-->
         <module>Java_2.1_ClassLoader</module>
         <module>Java_2.2_Reflect</module>
         <module>Java_2.3_JavaDelegate</module>
@@ -32,42 +32,7 @@
         <module>Java_2.7_Pattern</module>
         <module>Java_2.8_Junit</module>
 
-        <!-- 3、JavaInterface（Java界面）-->
-
-        <!-- 4、JavaWeb基础 -->
-        <!-- 4.1_Font（前端）-->
-        <module>JavaWeb_4.1_01_HTML</module>
-        <module>JavaWeb_4.1_02_CSS</module>
-        <module>JavaWeb_4.1_03_Javascript</module>
-        <module>JavaWeb_4.1_04_jQuery</module>
-        <module>JavaWeb_4.1_04_jQuery_EasyUI</module>
-        <module>JavaWeb_4.1_04_jQuery_OCUpload</module>
-        <module>JavaWeb_4.1_04_jQuery_ZTree</module>
-        <module>JavaWeb_4.1_05_BootStrap</module>
-        <module>JavaWeb_4.1_07_JSON</module>
-
-        <!-- 4.2_DataBase（数据库）-->
-       <!-- <module>JavaWeb_4.2_01_Database</module>-->
-
-        <!-- 4.3_Server（服务器端）-->
-        <module>JavaWeb_4.3_01_XML</module>
-        <module>JavaWeb_4.3_02_HTTP</module>
-        <module>JavaWeb_4.3_04_Servlet</module>
-        <module>JavaWeb_4.3_04_Servlet_Filter</module>
-        <module>JavaWeb_4.3_04_Servlet_Listener</module>
-        <module>JavaWeb_4.3_05_JSP</module>
-
-        <!-- 4.4_Project（综合项目）-->
-        <module>JavaWeb_4.4_01_Shop</module>
-        <module>JavaWeb_5.1_Struts2</module>
-        <module>JavaWeb_5.2_Hibernate5</module>
-        <module>JavaWeb_5.3_Spring5</module>
-        <module>JavaWeb_5.4_Mybatis3</module>
-
-        <!-- 5、JavaWeb_Framework（JavaWeb开源框架）-->
-
-
-        <!-- 6、JavaWeb_Architecture（JavaWeb架构）-->
+        <!--【Java】03_JavaInterface（Java界面）-->
     </modules>
 
     <!-- 解决Language Level版本问题 -->
